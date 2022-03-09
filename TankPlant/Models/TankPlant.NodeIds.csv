@@ -1,0 +1,8 @@
+AnalogInputType,15008,ObjectType
+AnalogOutputType,15006,ObjectType
+AnalogSensorType,15018,ObjectType
+ButtonType,15024,ObjectType
+DigitalType,15014,ObjectType
+GenericControllerType,15001,ObjectType
+Plant1,15026,Object
+ValveType,15016,ObjectType
